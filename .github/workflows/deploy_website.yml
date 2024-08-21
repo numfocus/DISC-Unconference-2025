@@ -1,0 +1,38 @@
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deployment:
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v4.0.3
+
+    - name: Install dependencies
+      run: |
+        cd unconference-2025/
+        npm install docusaurus
+
+    - name: Build website
+      run: |
+        cd unconference-2025/
+        npm run build
+        ls -la
+
+    - name: Upload GitHub Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./unconference-2025/build
+
+    - name: Deploy GitHub Pages site
+      uses: actions/deploy-pages@v4
