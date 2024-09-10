@@ -14,7 +14,6 @@
   background-position: center;
   background-color: var(--ifm-hero-background-color);
   background-blend-mode: hard-light;
-  backdrop-filter: blur(1);
 }
 
 @media screen and (max-width: 996px) {
@@ -27,4 +26,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.attribution {
+  font-size: 0.75rem;
+  color: var(--ifm-link-color);
+  text-align: center;
+  margin-top: 1rem;
 }

@@ -35,6 +35,9 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="DISC Unconference 2025">
       <HomepageHeader />
+      <div className={styles.attribution}>
+        Photo: Memorial da América Latina, by Governo do Estado de São Paulo
+      </div>
       <main>
         <HomepageFeatures />
       </main>
