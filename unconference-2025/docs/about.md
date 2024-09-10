@@ -15,6 +15,8 @@ NumFOCUS recognizes that the open source data science community is currently hig
 
 The Unconference aims to produce tools and facilitate activities that will lead to a more diverse   and inclusive open-source scientific computing community. We will host approximately 35 participants made up of new contributors, project maintainers, open source enthusiasts, and champions of community inclusion efforts interested in impacting their community through an unconference style event that will focus on collaborating on efforts to build resources to distribute and share with the broader open-source community. Participants will discuss and generate ideas for practical and scalable solutions, identify best practices, and share knowledge that welcomes, encourages, and fosters community growth inclusive of people from all backgrounds and identities.
 
+![Outdoors picture of all in-person participants of the 2023 DISC Unconference in Amsterdam. There are 33 people looking at the camera, and it is a sunny day.](../static/img/20230910_Unconf_%20photo.jpg)
+
 ## The DISC Unconference
 
 Open-source scientific software projects serve as critical digital infrastructure in the public interest. These projects require a healthy, diverse community of contributors for long-term sustainability. As we learned from the outcomes of the CDR project sponsored by the Moore Foundation, the profile of a typical contributor can be summarized as an upper-class, highly educated, white male from North America and/or Central and Western Europe (Contributor Diversification and Retention research Baseline report, July 2021). There are many talented individuals from all over the world with diverse backgrounds whose contributions could enrich the open-source ecosystem.
@@ -36,7 +38,7 @@ Based on our experiences, we would like to focus on the Global South for our 202
 ### Details
 
 - Location: São Paulo, Brazil; Online
-- Estimated Date: February 14-16, 2025 OR later depends on fundraising.
+- Estimated Date: March 14-16, 2025.
 
 The Unconference format is two and a half days of hands-on group collaboration, aiming to create and present the first versions of DEI education materials at the event's final session. Participants can propose specific topics they would like to work on before and during the event. Final topics for discussion will be selected, and working groups will be created at the start of Day One.
 

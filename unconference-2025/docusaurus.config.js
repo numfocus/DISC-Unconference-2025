@@ -9,19 +9,19 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DISC Unconference 2025',
-  tagline: 'São Paulo, Brazil and Online',
+  tagline: 'March 14-16 2025 - São Paulo, Brazil and Online',
   favicon: 'img/DISC-RGB-Icon.svg',
 
   // Set the production url of your site here
   url: 'https://numfocus.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/DISC-Unconference-2025/',
+  baseUrl: '/disc-unconference-2025/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'numfocus', // Usually your GitHub org/user name.
-  projectName: 'DISC-Unconference-2025', // Usually your repo name.
+  projectName: 'disc-unconference-2025', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -86,7 +86,7 @@ const config = {
           {
             position: 'left',
             label: 'Donate',
-            href: 'https://app.hubspot.com/payments/purchase/hscs_NsUcNj1rgBQKjlyOgRDvueb6Mlnz7jaCJJR7N9qCMGXiEaIUTulYLT0SVki3qrPG?referrer=PAYMENT_LINK',
+            href: 'https://app.hubspot.com/payments/HVF6mmJ4Z?referrer=PAYMENT_LINK',
             target: '_blank',
           }
         ],

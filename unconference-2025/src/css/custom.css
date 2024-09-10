@@ -32,3 +32,11 @@
   --ifm-footer-background-color: #222;
   --ifm-hero-background-color: #007d8a !important;
 }
+
+.hero__title, .hero__subtitle {
+  text-shadow: 0 0 1em #007d8a;
+}
+
+.hero__subtitle {
+  font-weight: bold;
+}
