@@ -36,7 +36,7 @@ export default function Home() {
       description="DISC Unconference 2025">
       <HomepageHeader />
       <div className={styles.attribution}>
-        Photo: Memorial da América Latina, by Governo do Estado de São Paulo
+          Photo: Ponte Estaiada, São Paulo by NunysBR (<a href="https://commons.wikimedia.org/wiki/File:Ponte_estaiada_em_S%C3%A3o_Paulo.png">Wikimedia</a>)
       </div>
       <main>
         <HomepageFeatures />

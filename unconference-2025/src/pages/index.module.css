@@ -8,12 +8,12 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: url('../../static/img/memorial_america_latina.jpg');
-  background-size: 80%;
+  background: url('../../static/img/ponte_estaiada.png');
+  background-size: 70%;
   background-repeat: no-repeat;
   background-position: center;
   background-color: var(--ifm-hero-background-color);
-  background-blend-mode: hard-light;
+  background-blend-mode: multiply;
 }
 
 @media screen and (max-width: 996px) {
