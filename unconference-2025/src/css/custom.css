@@ -35,6 +35,7 @@
 
 .hero__title, .hero__subtitle {
   text-shadow: 0 0 1em #007d8a;
+  font-size: 32px;
 }
 
 .hero__subtitle {
