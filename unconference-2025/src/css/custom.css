@@ -41,3 +41,40 @@
 .hero__subtitle {
   font-weight: bold;
 }
+.footer {
+  height: auto; /* Allow flexible height for wrapping content */
+  display: flex; /* For alignment */
+  flex-wrap: wrap; /* Enable content to wrap on smaller screens */
+  align-items: center; /* Center content vertically */
+  justify-content: center; /* Center content horizontally */
+  background-color: var(--ifm-footer-background-color); /* Footer background */
+  padding: 10px 20px; /* Add padding for better spacing */
+  box-sizing: border-box; /* Include padding in height/width calculations */
+}
+
+.footer__links {
+  font-size: 14px; /* Adjust font size */
+  margin: 5px; /* Add margin between links */
+  text-align: center; /* Ensure links are aligned in the center */
+}
+
+.footer__links a {
+  color: var(--ifm-link-color); /* Maintain link color theme */
+  text-decoration: none; /* Remove underline by default */
+  margin: 0 10px; /* Add horizontal spacing between links */
+}
+
+.footer__links a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    flex-direction: column; /* Stack items vertically on small screens */
+    padding: 15px; /* Add padding for smaller devices */
+  }
+
+  .footer__links a {
+    margin: 5px 0; /* Reduce horizontal margin for stacked layout */
+  }
+}
