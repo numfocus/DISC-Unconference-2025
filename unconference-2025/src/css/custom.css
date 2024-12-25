@@ -41,3 +41,20 @@
 .hero__subtitle {
   font-weight: bold;
 }
+/* Default (light mode) styles for hero title and subtitle */
+.hero__title, .hero__subtitle {
+  color: #fff; /* white text for light mode */
+  text-shadow: 0 0 1em #007d8a; /* Retain text shadow */
+  font-size: 32px;
+}
+
+.hero__subtitle {
+  font-weight: bold;
+}
+
+/* Dark mode styles for hero title and subtitle */
+[data-theme='dark'] .hero__title,
+[data-theme='dark'] .hero__subtitle {
+  color: #fff; /* White text for dark mode */
+  text-shadow: 0 0 1em #0394a3; /* Adjust shadow color if needed */
+}
