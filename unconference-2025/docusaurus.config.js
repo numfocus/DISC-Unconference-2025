@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -15,20 +15,15 @@ const config = {
   // Set the production url of your site here
   url: 'https://numfocus.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/disc-unconference-2025/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'numfocus', // Usually your GitHub org/user name.
   projectName: 'disc-unconference-2025', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -41,10 +36,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/numfocus/disc-unconference-2025/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -56,7 +47,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'DISC Unconference 2025',
@@ -88,7 +78,13 @@ const config = {
             label: 'Donate',
             href: 'https://app.hubspot.com/payments/HVF6mmJ4Z?referrer=PAYMENT_LINK',
             target: '_blank',
-          }
+          },
+          {
+            position: 'right',
+            label: 'Register Now',
+            href: 'https://example.com/register', // Replace with actual link
+            className: 'button button--primary',
+          },
         ],
       },
       footer: {
