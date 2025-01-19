@@ -1,47 +1,52 @@
----
-id: about
----
-
-# About
-
-## The DISC Committee and Program
-
-### DISC Program Mission
-
-NumFOCUS recognizes that the open source data science community is currently highly homogenous. We believe that diverse contributors and community members produce better science and better projects. NumFOCUS’s Diversity & Inclusion in Scientific Computing (“DISC”) Program strives to help create a more diverse community through initiatives and programming devoted to increasing participation by and inclusion of underrepresented people.
 
 
-### DISC Unconference Mission
+# DISC Program Overview
 
-The Unconference aims to produce tools and facilitate activities that will lead to a more diverse   and inclusive open-source scientific computing community. We will host approximately 35 participants made up of new contributors, project maintainers, open source enthusiasts, and champions of community inclusion efforts interested in impacting their community through an unconference style event that will focus on collaborating on efforts to build resources to distribute and share with the broader open-source community. Participants will discuss and generate ideas for practical and scalable solutions, identify best practices, and share knowledge that welcomes, encourages, and fosters community growth inclusive of people from all backgrounds and identities.
+The **DISC Program** aims to foster diversity and inclusivity within the open-source community by offering opportunities for individuals from underrepresented groups. Our goal is to create an environment where diverse voices can thrive and contribute to the future of open-source technology.
 
-![Outdoors picture of all in-person participants of the 2023 DISC Unconference in Amsterdam. There are 33 people looking at the camera, and it is a sunny day.](../static/img/20230910_Unconf_%20photo.jpg)
+## DISC Unconference Mission
 
-## The DISC Unconference
-
-Open-source scientific software projects serve as critical digital infrastructure in the public interest. These projects require a healthy, diverse community of contributors for long-term sustainability. As we learned from the outcomes of the CDR project sponsored by the Moore Foundation, the profile of a typical contributor can be summarized as an upper-class, highly educated, white male from North America and/or Central and Western Europe (Contributor Diversification and Retention research Baseline report, July 2021). There are many talented individuals from all over the world with diverse backgrounds whose contributions could enrich the open-source ecosystem.
-
-The diverse perspectives in open-source projects are even more important than ever since unconscious bias might greatly affect AI software. Working with a diverse group of contributors could reduce this bias.  	 
-
-### Approach
-
-We recognize the need to build a collaboration space for DEI leaders representing different global regions and types of underrepresented groups. Continuing the successes of the previous DISC Unconference, we will organize another edition of this beloved community event.
-
-Based on our experiences, we would like to focus on the Global South for our 2025 event, reflected in the main event's location and the outreach to potential participants. In addition, we plan to expand the virtual path to attract global leaders who cannot travel.
+The **DISC Unconference** brings together participants from around the world to discuss and explore ways to increase diversity in open-source projects. This unconference format encourages collaborative, participant-driven discussions, allowing everyone to actively contribute and learn from each other.
 
 ### Unconference Goals
 
-- Create open-source educational materials on DEI, emphasizing activating more contributions from the Global South.
-- Increase understanding of challenges and opportunities for potential contributors from the Global South to the NumFOCUS community.
-- Open a dialog and build paths to collaboration between global DEI leaders in open source representing a number of underrepresented groups.
+- Promote diversity in open-source communities.
+- Create opportunities for mentorship and networking.
+- Share best practices for inclusivity in tech.
+- Encourage participants to take action and implement new ideas in their respective communities.
+- Build lasting connections among diverse individuals and organizations.
 
-### Details
+## Event Details
 
-- Location: São Paulo, Brazil; Online
-- Estimated Date: March 14-16, 2025.
+The **2025 DISC Unconference** will take place on **March 14-16, 2025** in **São Paulo, Brazil** and **Online**. Here’s a quick overview:
 
-The Unconference format is two and a half days of hands-on group collaboration, aiming to create and present the first versions of DEI education materials at the event's final session. Participants can propose specific topics they would like to work on before and during the event. Final topics for discussion will be selected, and working groups will be created at the start of Day One.
+- **Date**: March 14-16, 2025
+- **Location**: São Paulo, Brazil and Online (Hybrid Event)
+- **Expected Participants**: 100
+- **Topics Covered**: Diversity, Inclusion, Mentorship, Open-source Communities, and more.
+- **Format**: Unconference style with interactive sessions and networking opportunities.
 
-We expect about 35 participants in person and up to 30 participants online. The participants will be recruited from NumFOCUS Affiliated and Sponsors Projects, the PyData Community, and most importantly, programming and open source communities outside the NumFOCUS ecosystem.
+### Key Highlights
 
-DEI Leaders Network - The Unconference will provide a Slack Channel and Google Workspace to all the Unconference participants and alumni (Unconference 2023), as well as regular collaboration online following the event to continue the development of the materials and host bi-monthly community meetings. This type of communication will be crucial to continue sharing knowledge and experience and support any future cross-program cooperation.
+- A global, inclusive event bringing together diverse voices.
+- Opportunities for mentorship and skill-building.
+- Workshops and presentations from industry leaders.
+- Engaging discussions on how to build more inclusive open-source ecosystems.
+
+## Future Collaboration
+
+The DISC Program and Unconference are committed to making a lasting impact on open-source communities worldwide. As we continue to expand our reach and influence, we look forward to collaborating with more organizations, participants, and allies to further our mission of inclusivity and diversity.
+
+### Visual Engagement
+
+We believe in the power of visuals to tell stories. Here are some images from past DISC events that showcase the vibrant, diverse community that we’ve built:
+
+
+
+![Diversity in Open-Source](../static/img/20230910_Unconf_%20photo.jpg)  
+    Celebrating diversity in tech at DISC 2023
+
+---
+
+**Join Us for the 2025 DISC Unconference!**  
+Register today and be part of a transformative experience that aims to shape the future of open-source.
